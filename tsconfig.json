@@ -1,6 +1,5 @@
 {
     "compilerOptions": {
-        "noEmit": true,
         "allowUnreachableCode": false,
         "exactOptionalPropertyTypes": true,
         "noFallthroughCasesInSwitch": true,
@@ -15,6 +14,7 @@
         "strictNullChecks": true,
         "strictPropertyInitialization": true,
         "jsx": "react",
+        "esModuleInterop": true,
         "allowJs": true,
         "checkJs": true,
         "isolatedModules": true
