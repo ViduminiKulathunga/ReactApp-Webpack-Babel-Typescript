@@ -1,10 +1,14 @@
 import React from "react";
+import Typograpy from "./components/Typography";
+import "./assets/styles/style.css";
 
 const App = () => {
   return (
-    <>
-      <h1>Hello ReactApp from Scratch using Webpack Babel Typescript</h1>
-    </>
+    <div className="box">
+      <Typograpy varient="h1">
+        Hello ReactApp from Scratch using Webpack Babel Typescript
+      </Typograpy>
+    </div>
   );
 };
 

@@ -4,3 +4,7 @@ npm install --save-dev @babel/core @babel/cli @babel/preset-env @babel/preset-ty
 npm install --save-dev html-webpack-plugin
 
 
+# all run at once
+npm install --save-dev npm-run-all 
+
+# run -> npm run dev

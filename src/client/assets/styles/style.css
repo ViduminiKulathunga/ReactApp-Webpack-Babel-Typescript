@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap");
+
+@font-face {
+    font-family: "Lato-Bold";
+    src: url("../fonts//Lato-Bold.ttf") format("truetype");
+}
+.box{
+    background-color: rgb(245, 214, 253);
+    padding: 20px;
+    /* font-family: "Lato-Bold"; */
+    font-family: "Lato";
+}
